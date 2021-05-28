@@ -1,0 +1,22 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+    flex-direction: column;
+}
+h1{
+    font-size:  5em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    padding: 10px 3em;
+    font-size: 2em;
+    font-family: fantasy;
+    background-color: burlywood;
+    border: none;
+    border-radius: 10px;
+    transition: all 0.5s;
+    margin-bottom: 1em;
+}

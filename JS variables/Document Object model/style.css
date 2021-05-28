@@ -1,0 +1,29 @@
+
+h1{
+    font-size:  6em;
+    font-family: fantasy;
+}
+input{
+    padding: 10px 3em;
+    margin-bottom: 3em;
+    border-radius: 10px; 
+    font-size: 1em;
+}
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: plum;
+    flex-direction: column;
+}
+button{
+    padding: 10px 3em;
+    font-size: 2em;
+    font-family: fantasy;
+    background-color: rebeccapurple;
+    border: none;
+    border-radius: 10px;
+    transition: all 0.5s;
+    margin-bottom: 1em;
+}   

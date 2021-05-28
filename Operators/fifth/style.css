@@ -1,0 +1,19 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(213, 194, 111);
+    flex-direction: column;
+}
+input{
+    padding: 10px 3em;
+    margin-bottom: 3em;
+    border-radius: 5px;
+}
+#span{
+    padding: 10px 3em;
+    margin-bottom: 3em;
+    border-radius: 5px; 
+    font-size: 1em;
+}

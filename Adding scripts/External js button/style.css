@@ -1,0 +1,18 @@
+ 
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(132, 213, 111);
+    flex-direction: column;
+}
+button{
+    padding: 10px 3em;
+    font-size: 2em;
+    font-family: fantasy;
+    border: none;
+    border-radius: 10px;
+    transition: all 0.5s;
+    margin-bottom: 1em;
+}
