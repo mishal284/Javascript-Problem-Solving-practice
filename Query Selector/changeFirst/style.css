@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(235, 201, 206);
+    font-family: cursive;
+    font-size: medium;
+
+}
+button{
+    font-size: large;
+    padding: auto;
+
+}
